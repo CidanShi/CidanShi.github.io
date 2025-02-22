@@ -25,7 +25,7 @@ Publications
   *IEEE Transactions on Multimedia (**T-MM**), 2024.* [\[**PDF**\]](https://ieeexplore.ieee.org/document/10499836) [\[**Code**\]](https://github.com/CidanShi/NiteDR-Nighttime-Image-De-raining)
 
 * CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond  
-  YukaiShi<sup>*</sup>, **CidanShi<sup>*</sup>**, Zhipeng Weng, Yin Tian, Xiaoyu Xian, Liang Lin  
+  YukaiShi*, **CidanShi***, Zhipeng Weng, Yin Tian, Xiaoyu Xian, Liang Lin  
   *IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2025.* [\[**PDF**\]](https://CidanShi.github.io) [\[**Code**\]](https://CidanShi.github.io)
 
 
