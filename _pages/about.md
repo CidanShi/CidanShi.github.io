@@ -26,6 +26,7 @@ Publications
 
 * CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond  
   YukaiShi†, **CidanShi†**, Zhipeng Weng, Yin Tian, Xiaoyu Xian, Liang Lin  
+  (†Equal contribution)  
   *IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2025.* [\[**PDF**\]](https://CidanShi.github.io) [\[**Code**\]](https://CidanShi.github.io)
 
 
