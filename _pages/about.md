@@ -27,7 +27,12 @@ Publications
 * CrossFuse: Learning Infrared and Visible Image Fusion by Cross-Sensor Top-K Vision Alignment and Beyond  
   YukaiShi†, **CidanShi†**, Zhipeng Weng, Yin Tian, Xiaoyu Xian, Liang Lin  
   (†Equal contribution)  
-  *IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2025.* [\[**PDF**\]](https://CidanShi.github.io) [\[**Code**\]](https://github.com/CidanShi/CrossFuse)
+  *IEEE Transactions on Circuits and Systems for Video Technology (**T-CSVT**), 2025.* [\[**PDF**\]](https://ieeexplore.ieee.org/document/10900459) [\[**Code**\]](https://github.com/CidanShi/CrossFuse)
+
+* Scaling Up Single Image Dehazing Algorithm by Cross-Data Vision Alignment for Richer Representation Learning and Beyond  
+  Yukai Shi, Zhipeng Weng, Yupei Lin, **CidanShi**, Xingyuan Guo, Xiaojun Yang, Liang Lin   
+  *IEEE Transactions on Instrumentation and Measurement (**T-IM**), 2025.* [\[**PDF**\]](https://ieeexplore.ieee.org/abstract/document/10974513) [\[**Code**\]](https://github.com/wengzp1/ScaleUpDehazing)
+
 
 
 
